@@ -1,0 +1,15 @@
+{
+  "name": "rust-lambda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marek Majdak",
+  "license": "MIT",
+  "homepage": "https://github.com/marekm1844",
+  "devDependencies": {
+    "serverless-rust": "^0.3.7"
+  }
+}
